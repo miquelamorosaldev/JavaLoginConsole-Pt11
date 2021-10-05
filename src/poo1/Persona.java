@@ -11,6 +11,12 @@ public class Persona {
 	public String nom;
 	public String cognom1;
 	public String cognom2;
+
+	/* 
+	public String nom;
+	public String cognom1;
+	public String cognom2;
+	*/
     
 	private String professio;
 	private int edat;
