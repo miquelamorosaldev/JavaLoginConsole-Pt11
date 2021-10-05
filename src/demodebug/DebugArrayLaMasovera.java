@@ -10,6 +10,10 @@ public class DebugArrayLaMasovera {
         String[] diesSetmana = 
             { "Dilluns", "Dimarts", "Dimecres", "Dijous", "Divendres", "Dissabte", "Diumenge" };
         
+        
+        String[] diesSetmana = 
+            { "Dilluns", "Dimarts", "Dimecres", "Dijous", "Divendres", "Dissabte", "Diumenge" };
+        
         String[] calendariMasovera = 
             { "Menja llums", "Menja naps", "Menja nespres", 
                 "Menja nous", "Menja faves tendres", "Tot s'ho gasta", "Tot s'ho menja"};
